@@ -9,4 +9,9 @@ APIs
 # Visit URL
 https://weatherdashboard-nitish.netlify.app
 
+# steps to get weather details
+* enter city name
+* click on search button
+  
+
 
